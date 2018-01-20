@@ -1,0 +1,40 @@
+.button-style {
+    background-color: rgba(0, 225, 255, 0.192);
+    width: 100px;
+    height: 60px;
+    color: white;
+}
+
+.hidden {
+    display: none;
+}
+
+.padding-bottom {
+    padding-bottom: 40px;
+}
+
+h1 {
+    font-size: 50px;
+    color: rgb(255, 187, 0);
+    text-align: center;
+}
+
+h2 {
+    font-size: 15px;
+    color: rgba(255, 5, 5, 0.986)(0, 0, 0, 0.986);
+    text-align: center;
+}
+h3 {
+    font-size: 15px;
+    color: blue
+    text-align center;
+}
+p {
+    font-size: 18px;
+    text-align: center;
+
+}
+
+body{
+    background-color: rgba(208, 247, 252, 0.925)
+}
